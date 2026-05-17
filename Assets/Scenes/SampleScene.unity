@@ -742,7 +742,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1474941333}
-        m_TargetAssemblyTypeName: Button, Assembly-CSharp
+        m_TargetAssemblyTypeName: BtnTextChenger, Assembly-CSharp
         m_MethodName: ChangeText
         m_Mode: 1
         m_Arguments:
